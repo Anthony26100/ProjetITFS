@@ -1,0 +1,68 @@
+Accueil :
+
+
+Navbar text = #FFC400
+
+titre = #FFC400
+
+slogan = #FFC400 opcacité 91%
+
+
+
+
+
+Formation :
+
+
+
+Navbar : #FFFFFF
+
+Titre : #FFC400
+
+txt : #FFFFFF
+
+carte : #000000 opacité 16% ---- bordure : #707070
+
+
+
+Audit web :
+
+
+Titre "L'audit web" + Navbar = #FFFFFF
+
+Titre carte + bordure + flêche= #FFC400
+
+txt =  #FFFFFF
+
+
+
+
+
+page error 404 : 
+
+Titre = #F5AC4D
+
+
+bouton = #F5AC4D txt = #FFFFFF
+hover bouton = #D5D4D4
+
+
+
+
+contact : 
+
+
+Bordure + bouton + txt nav = #FFC400
+
+fond formulaire = #FFFFFF opacité 16
+
+
+
+Mention legale : 
+
+Titre + txt navbar = #FFC400
+
+"carte" = #FFFFFF 42%
+
+
+
