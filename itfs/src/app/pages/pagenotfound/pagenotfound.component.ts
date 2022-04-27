@@ -12,6 +12,7 @@ export class PagenotfoundComponent implements OnInit {
 
   ngOnInit(): void {
     this.settings.displayHeader=false;
+    this.settings.displayFooter=false;
   }
 
 }

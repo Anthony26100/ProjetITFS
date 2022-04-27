@@ -9,11 +9,14 @@ h1, p{
     height: 100vh;
     background-image: url('../../../assets/images/page404/page404.png');
     color:#F5AC4D;
+    position: relative;
 }
 
 .btn-primary{
     margin-left: 2vw;
     background-color:#F5AC4D;
+    position: absolute;
+    margin-bottom: 2vh;
 }
 
 .btn-primary:hover{
