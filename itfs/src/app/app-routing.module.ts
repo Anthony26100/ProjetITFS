@@ -7,7 +7,14 @@ import { FormationComponent } from './pages/formation/formation.component';
 import { AuditComponent } from './pages/audit/audit.component';
 import { ContactComponent } from './pages/contact/contact.component';
 
-const routes: Routes = [];
+const routes: Routes = [
+  {path: '', component:HomeComponent},
+  {path: 'formation', component:FormationComponent},
+  {path: 'audit', component:AuditComponent},
+  {path: 'contact', component:ContactComponent},
+  {path: '**', pathMatch: 'full', 
+        component: PagenotfoundComponent }
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
