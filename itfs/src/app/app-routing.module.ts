@@ -1,17 +1,23 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { PagenotfoundComponent } from './pages/pagenotfound/pagenotfound.component';
 
 import { HomeComponent } from './pages/home/home.component';
 import { FormationComponent } from './pages/formation/formation.component';
 import { AuditComponent } from './pages/audit/audit.component';
 import { ContactComponent } from './pages/contact/contact.component';
-import { from } from 'rxjs';
+
 
 const routes: Routes = [
-  {path:'', component:HomeComponent},
-  {path:'formation', component:FormationComponent},
-  {path:'audit', component:AuditComponent},
-  {path:'contact', component:ContactComponent},
+
+
+  {path: '', component:HomeComponent},
+  {path: 'formation', component:FormationComponent},
+  {path: 'audit', component:AuditComponent},
+  {path: 'contact', component:ContactComponent},
+  {path: '**', pathMatch: 'full', 
+        component: PagenotfoundComponent }
+
 ];
 
 @NgModule({
