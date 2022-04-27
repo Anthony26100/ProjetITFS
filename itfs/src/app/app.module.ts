@@ -3,12 +3,13 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { HomeComponent } from './home/home.component';
-import { FormationComponent } from './formation/formation.component';
-import { AuditComponent } from './audit/audit.component';
-import { ContactComponent } from './contact/contact.component';
-import { HeaderComponent } from './header/header.component';
-import { FooterComponent } from './footer/footer.component';
+import { HomeComponent } from './pages/home/home.component';
+import { FormationComponent } from './pages/formation/formation.component';
+import { AuditComponent } from './pages/audit/audit.component';
+import { ContactComponent } from './pages/contact/contact.component';
+import { HeaderComponent } from './components/header/header.component';
+import { FooterComponent } from './components/footer/footer.component';
+import { PagenotfoundComponent } from './pages/pagenotfound/pagenotfound.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { FooterComponent } from './footer/footer.component';
     AuditComponent,
     ContactComponent,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
+    PagenotfoundComponent
   ],
   imports: [
     BrowserModule,
