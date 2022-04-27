@@ -1,5 +1,22 @@
+h1, p{
+    font-family: Mistral, Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-size: 5rem;
+    text-align: center;
+}
+
 .fond{
     width: 100vw;
     height: 100vh;
     background-image: url('../../../assets/images/page404/page404.png');
+    color:#F5AC4D;
+}
+
+.btn-primary{
+    margin-left: 2vw;
+    background-color:#F5AC4D;
+}
+
+.btn-primary:hover{
+    margin-left: 2vw;
+    background-color:#D5D4D4;
 }
