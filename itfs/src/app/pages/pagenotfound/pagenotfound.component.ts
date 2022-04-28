@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { SettingsService } from 'src/app/services/settings.service';
 
 @Component({
   selector: 'app-pagenotfound',
@@ -7,9 +8,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PagenotfoundComponent implements OnInit {
 
-  constructor() { }
+  constructor(public settings:SettingsService) { }
 
   ngOnInit(): void {
+    this.settings.displayHeader=false;
+    this.settings.displayFooter=false;
   }
 
 }
