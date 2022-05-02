@@ -12,7 +12,7 @@ p{
 
 .fond{
     width: 100%;
-    height: 340vh;
+    height: auto;
     background-image: url('../../../assets/images/legalmentions/bglegalmentions.jpg');
     position: absolute;
 }
