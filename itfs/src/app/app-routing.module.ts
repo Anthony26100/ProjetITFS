@@ -15,8 +15,7 @@ const routes: Routes = [
   {path: 'formation', component:FormationComponent},
   {path: 'audit', component:AuditComponent},
   {path: 'contact', component:ContactComponent},
-  {path: '**', pathMatch: 'full', 
-        component: PagenotfoundComponent }
+  {path: '**', pathMatch: 'full',component: PagenotfoundComponent }
 
 ];
 
