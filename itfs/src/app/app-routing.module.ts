@@ -17,8 +17,7 @@ const routes: Routes = [
   {path: 'audit', component:AuditComponent},
   {path: 'contact', component:ContactComponent},
   {path: 'legalmentions', component:LegalmentionsComponent},
-  {path: '**', pathMatch: 'full', 
-        component: PagenotfoundComponent }
+  {path: '**', pathMatch: 'full', component: PagenotfoundComponent}
 
 ];
 
