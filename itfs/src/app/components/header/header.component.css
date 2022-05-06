@@ -1,16 +1,16 @@
 .navbar {
-    background-color: rgba(255, 255, 255, 0.16);
-  
+  background-color: rgba(255, 255, 255, 0.16);
+
 }
 
 .nav-link{
-    color: #FFC400 ;
-    font-family: Mistral ;
-    font-size: 1.46rem;
-   
+  color: #FFC400 ;
+  font-family: Mistral ;
+  font-size: 1.46rem;
+ 
 }
 
 
-  .logo{
-    transform: rotate(200deg);
-  }
+.logo{
+  transform: rotate(200deg);
+}
