@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { SettingsService } from 'src/app/services/settings.service';
 
 @Component({
   selector: 'app-formation',
@@ -7,9 +8,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FormationComponent implements OnInit {
 
-  constructor() { }
+  constructor(public settings:SettingsService) { }
 
   ngOnInit(): void {
+    this.settings.displayHeader=true;
+    this.settings.displayFooter=true;
   }
 
 }

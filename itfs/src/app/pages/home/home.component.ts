@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { SettingsService } from 'src/app/services/settings.service';
 
 @Component({
   selector: 'app-home',
@@ -7,10 +8,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
+  constructor(public settings:SettingsService) { }
 
-  constructor() { }
 
   ngOnInit(): void {
+    this.settings.displayHeader=true;
+    this.settings.displayFooter=true;
   }
 
 }
