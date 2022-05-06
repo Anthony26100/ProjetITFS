@@ -17,12 +17,7 @@ const routes: Routes = [
   {path: 'audit', component:AuditComponent},
   {path: 'contact', component:ContactComponent},
   {path: 'legalmentions', component:LegalmentionsComponent},
-<<<<<<< HEAD
   {path: '**', pathMatch: 'full', component: PagenotfoundComponent}
-=======
-  {path: '**', pathMatch: 'full', component: PagenotfoundComponent }
->>>>>>> 35356e8b3f72814c0071fce46bb928aabb480482
-
 ];
 
 @NgModule({
