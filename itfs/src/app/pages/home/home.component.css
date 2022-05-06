@@ -6,8 +6,17 @@ h1,p{
     font-family: Mistral, Roboto, 'Segoe UI', Tahoma, sans-serif;
 }
 
-div:first-of-type{
+h1{
+    padding-top: 20vh;
+}
 
+p{
+    padding: 10vh ;
+}
+
+
+
+div:first-of-type{
 }
 
 h1.orange{

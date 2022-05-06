@@ -10,6 +10,7 @@ import { ContactComponent } from './pages/contact/contact.component';
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { PagenotfoundComponent } from './pages/pagenotfound/pagenotfound.component';
+import { SlideUpComponent } from './animation/slide-up/slide-up.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { PagenotfoundComponent } from './pages/pagenotfound/pagenotfound.compone
     ContactComponent,
     HeaderComponent,
     FooterComponent,
-    PagenotfoundComponent
+    PagenotfoundComponent,
+    SlideUpComponent
   ],
   imports: [
     BrowserModule,
