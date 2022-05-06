@@ -1,12 +1,16 @@
 .navbar {
     background-color: rgba(255, 255, 255, 0.16);
+  
 }
 
 .nav-link{
     color: #FFC400 ;
     font-family: Mistral ;
     font-size: 1.46rem;
+   
 }
-.navbar-toggler-icon{
-    color: #FFC400 ;
-}
+
+
+  .logo{
+    transform: rotate(200deg);
+  }
