@@ -26,7 +26,7 @@ import { SlideUpComponent } from './animation/slide-up/slide-up.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
