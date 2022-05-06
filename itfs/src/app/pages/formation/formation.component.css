@@ -1,0 +1,10 @@
+.marg-1{
+    margin-left: 50%;
+}
+
+section{
+    background-image: url(../../../assets/images/formation/fond-formation-itfs.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
