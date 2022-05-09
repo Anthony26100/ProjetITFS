@@ -2,9 +2,21 @@
     margin-left: 50%;
 }
 
-section{
+/* section{
     background-image: url(../../../assets/images/formation/fond-formation-itfs.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+} */
+
+
+h1, h2, h3, h4, strong{
+
+  font-family: Mistral ,Roboto, 'Segoe UI', Tahoma, sans-serif;
+  color: #FFC400 !important;
+   
+}
+
+p{
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
 }
