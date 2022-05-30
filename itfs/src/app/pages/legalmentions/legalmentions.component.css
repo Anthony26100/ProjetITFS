@@ -1,0 +1,20 @@
+h1, h2{
+    font-family: Mistral, Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-size: 5rem;
+    text-align: center;
+    color:#FFC400;
+}
+
+p{
+    text-align: justify;
+    font-size: 0.6rem;;
+}
+
+.fond{
+    width: 100%;
+    height: auto;
+}
+
+.card{
+    background-color: rgba(255,255,255,0.5);
+}
