@@ -13,6 +13,11 @@ p{
 .fond{
     width: 100%;
     height: auto;
+<<<<<<< HEAD
+=======
+    background-image: url('../../../assets/image/fond/mention/backgroung/bk.jpg');
+    position: absolute;
+>>>>>>> nice
 }
 
 .card{
