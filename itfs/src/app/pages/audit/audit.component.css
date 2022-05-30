@@ -1,0 +1,61 @@
+body{
+    width: 100%;
+    height: 97vh;
+background-image: url('../../../assets/images/auditfond/bgaudit.jpg');
+}
+
+h1{
+    font-family: Mistral;
+    font-size: 80px;
+    text-align: center;
+    color: rgb(255,255,255);
+}
+
+.maincontainer{
+    position: relative;
+    width:200px;
+    height:250px;
+    margin-left: 30px;
+    
+}
+.thecard{
+    position:absolute;
+    width:100%;
+    height:100%;
+    transform-style:preserve-3d;
+    transition: all 2s ease;
+    border:2px solid #ffc728;
+    border-radius:10px;
+    margin-top: 30px;
+
+}
+.front{
+    margin-top:50%;
+    font-family:Mistral;
+    font-size:25px;
+}
+.thecard:hover{
+    transform:rotatey(180deg);
+
+}
+.thefront{
+    position:absolute;
+    width: 100%;
+    height:100%;
+    backface-visibility:hidden;
+    background:rgb(6, 6,6);
+    color:#ffc728;
+    border-radius:10px;
+    text-align:center;
+    
+}
+.theback{
+    position:absolute;
+    width: 100%;
+    height:100%;
+    backface-visibility:hidden;
+    background:rgb(6, 6, 6);
+    color: rgb(255,255,255,255);
+    transform:rotateY(180deg);
+    border-radius:10px;
+}
