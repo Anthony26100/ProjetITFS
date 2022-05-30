@@ -18,9 +18,6 @@ const routes: Routes = [
   {path: 'contact', component:ContactComponent},
   {path: 'legalmentions', component:LegalmentionsComponent},
   {path: '**', pathMatch: 'full', component: PagenotfoundComponent}
-
-
-
 ];
 
 @NgModule({
