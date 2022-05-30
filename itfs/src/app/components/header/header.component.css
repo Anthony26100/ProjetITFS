@@ -1,25 +1,29 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+
+.perso {
+  z-index: 99;
+  position: fixed;
+  color: aquamarine;
+  width: 100%;
+  background-color: rgba(255, 255, 255,0.3)!important;
+  height:50px;
 }
 
-.navbar {
-  background-color: rgba(255, 255, 255, 0.16);
-
+div{
+  display:flex;
+  justify-content:space-around;
+  line-height:50px;
 }
-
-nav{
-  background-image: url(../../../assets/image/fond/Accueil/fond.png);
-  
-}
-
-.nav-link{
-  color: #FFC400 ;
+ 
+a{
+  flex:1;
+  color: #FFC400;
   font-family: Mistral ;
   font-size: 1.46rem;
+  text-align:center;
+  text-decoration: none;
 }
 
 .logo{
+  position: initial;
   transform: rotate(200deg);
 }
