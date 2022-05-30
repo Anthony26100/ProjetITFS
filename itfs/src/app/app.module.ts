@@ -10,7 +10,9 @@ import { ContactComponent } from './pages/contact/contact.component';
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { PagenotfoundComponent } from './pages/pagenotfound/pagenotfound.component';
+import { SlideUpComponent } from './animation/slide-up/slide-up.component';
 import { LegalmentionsComponent } from './pages/legalmentions/legalmentions.component';
+
 
 @NgModule({
   declarations: [
@@ -22,7 +24,9 @@ import { LegalmentionsComponent } from './pages/legalmentions/legalmentions.comp
     HeaderComponent,
     FooterComponent,
     PagenotfoundComponent,
+    SlideUpComponent,
     LegalmentionsComponent
+
   ],
   imports: [
     BrowserModule,
