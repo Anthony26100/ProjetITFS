@@ -17,12 +17,21 @@ h1, h2, h3, h4, strong{
    
 }
 
-p{
+p, li{
     font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    color: white;
 }
 
 
-/* body{
-    background-image: url(../../../assets/images/formation/fond-formation-itfs.png);
-    background-position: center;
-} */
+body{
+    /* background-image: url(../../../assets/images/formation/fond-formation-itfs.png);
+    background-position: center; */
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 45%, rgba(8,39,141,1) 55%, rgba(0,212,255,1) 100%);
+}
+
+@media screen and (min-width: 300px) and (max-width: 1079px)  {
+    .marg-1{
+        margin-left: initial !important;
+    }
+}
