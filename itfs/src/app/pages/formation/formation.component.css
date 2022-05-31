@@ -6,12 +6,6 @@
 *{
     margin-top: -8px;
 }
-/* section{
-    background-image: url(../../../assets/images/formation/fond-formation-itfs.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-} */
 
 
 h1, h2, h3, h4, strong{
@@ -24,7 +18,7 @@ h1, h2, h3, h4, strong{
 h1.principal{
     text-align: center;
     margin-top: 10%;
-    font-size: 80px;
+    font-size: 4rem;
 }
 
 p, li{
