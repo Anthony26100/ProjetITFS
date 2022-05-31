@@ -1,7 +1,11 @@
 .marg-1{
     margin-left: 50%;
+    margin-top: 10%;
 }
 
+*{
+    margin-top: -8px;
+}
 /* section{
     background-image: url(../../../assets/images/formation/fond-formation-itfs.png);
     background-position: center;
