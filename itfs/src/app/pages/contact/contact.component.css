@@ -53,3 +53,11 @@ button:hover{
     border: solid 1px #ff8800;
 }
 
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 5vh;
+    margin-bottom: 4vh;
+    font-family: roboto;
+}
+
