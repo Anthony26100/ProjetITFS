@@ -37,4 +37,8 @@ body{
     .marg-1{
         margin-left: initial !important;
     }
+
+    h1.principal{
+        padding-top: 10%;
+    }
 }
