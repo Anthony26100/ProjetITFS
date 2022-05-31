@@ -10,6 +10,7 @@ export class HomeComponent implements OnInit {
 
   constructor(public settings:SettingsService) { }
 
+
   ngOnInit(): void {
     this.settings.displayHeader=true;
     this.settings.displayFooter=true;
