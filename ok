@@ -1,0 +1,547 @@
+[33mcommit 7b580eac65a64524d8b556d984f64343f80340ee[m[33m ([m[1;36mHEAD -> [m[1;32mmastercrashtest[m[33m, [m[1;31morigin/mastercrashtest[m[33m)[m
+Merge: 538ab01 a92a37e
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Tue May 31 09:02:11 2022 +0200
+
+    Merge branch 'mastercrashtest' of https://github.com/Anthony26100/ProjetITFS into mastercrashtest
+
+[33mcommit a92a37e8d5ef4187f7907c625b48ea76c6f837de[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Mon May 30 17:03:33 2022 +0200
+
+    Arborescence
+
+[33mcommit 359c4a3de0bce8dd37c05e24ec7f49cb4b5c200f[m
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Mon May 30 16:55:00 2022 +0200
+
+    conflit nav
+
+[33mcommit c8cf21a5c66c6806514a1aad04d3f49d7aa01cca[m
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Mon May 30 16:54:26 2022 +0200
+
+    conflit nav
+
+[33mcommit 5a4e6dab58478afb2bec75b55d25af65af8d4151[m
+Merge: 0135e01 08bf813
+Author: nicecustodio <eunicemendes713@hotmail.com>
+Date:   Mon May 30 16:52:45 2022 +0200
+
+    page audit
+
+[33mcommit 0135e016b44c62dacc72bcf4c0c7c83024d83505[m
+Author: nicecustodio <eunicemendes713@hotmail.com>
+Date:   Mon May 30 16:50:40 2022 +0200
+
+    page audit
+
+[33mcommit 08bf813a3b73a4ee33c9d15c63b8e83fe2dee7a9[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Mon May 30 16:49:42 2022 +0200
+
+    Résolution Conflits
+
+[33mcommit 392bb7cce2e7559e79756e12c27c3be935af2fa2[m
+Merge: 5ebdfe7 351e7a8
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Mon May 30 16:44:25 2022 +0200
+
+    Merge branch 'mastercrashtest' of https://github.com/Anthony26100/ProjetITFS into mastercrashtest
+
+[33mcommit 5ebdfe7639775c6eadde4efee48cef4efea4bc19[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Mon May 30 16:44:15 2022 +0200
+
+    Page Formation - Relecture
+
+[33mcommit 351e7a8b8e0b3694f6986a692869afedd7247258[m
+Merge: 3bf1c87 a72e211
+Author: nicecustodio <eunicemendes713@hotmail.com>
+Date:   Mon May 30 16:31:12 2022 +0200
+
+    page audit
+
+[33mcommit 3bf1c870850658087c22bf7a5aa17fc75d46ef15[m
+Merge: 4f9d494 3c926c2
+Author: nicecustodio <eunicemendes713@hotmail.com>
+Date:   Mon May 30 16:06:36 2022 +0200
+
+    page audit
+
+[33mcommit a72e211cdcaba9680d3790a25f330bfb291c5da0[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Mon May 30 15:59:29 2022 +0200
+
+    Conflit Images
+
+[33mcommit 54648df71f79859102c46a424f4e9d262042ae20[m
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Mon May 30 15:20:04 2022 +0200
+
+    conflit regler
+
+[33mcommit d020ca3dd3f70cb5f8024dc4fbfcc0a17c8be853[m
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Mon May 30 15:15:11 2022 +0200
+
+    ajout image
+
+[33mcommit 5c61a64cd0d00a43d53c8c644a36e908cbdf368a[m
+Merge: dad8439 bd063b6
+Author: Anthony <93312637+Anthony26100@users.noreply.github.com>
+Date:   Mon May 30 15:10:42 2022 +0200
+
+    Merge pull request #13 from Anthony26100/nice
+    
+    Nice
+
+[33mcommit bd063b6eec79c67a4a4fed4f3583ed3d82fc57c7[m[33m ([m[1;31morigin/nice[m[33m, [m[1;32mnice[m[33m)[m
+Merge: cf27f5a a49f3c4
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Mon May 30 15:08:54 2022 +0200
+
+    Merge branch 'mastercrashtest' of https://github.com/Anthony26100/ProjetITFS into nice
+
+[33mcommit dad8439fe721ab87ee9c9bbf424b36e8b9edd1db[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Mon May 30 15:04:35 2022 +0200
+
+    Conflit AOS
+
+[33mcommit a49f3c4a4279d698e9969ef3530063c68e6a9146[m
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Mon May 30 14:58:00 2022 +0200
+
+    a
+
+[33mcommit 3c926c2506a9f75fbfcaf35379823357fa706c2c[m
+Author: nicecustodio <eunicemendes713@hotmail.com>
+Date:   Mon May 30 14:50:37 2022 +0200
+
+    audit
+
+[33mcommit 4f9d4940d1daf927c3d0070880e68a3daecf79ac[m
+Merge: c4e7c43 912a205
+Author: Anthony <93312637+Anthony26100@users.noreply.github.com>
+Date:   Mon May 30 14:48:42 2022 +0200
+
+    Merge pull request #12 from Anthony26100/Momo
+    
+    Momo
+
+[33mcommit 912a205d0c3d94ade319f06820869f05cc7928b0[m[33m ([m[1;31morigin/Momo[m[33m)[m
+Merge: b1ba306 c4e7c43
+Author: Anthony <93312637+Anthony26100@users.noreply.github.com>
+Date:   Mon May 30 14:48:28 2022 +0200
+
+    Merge branch 'mastercrashtest' into Momo
+
+[33mcommit c4e7c43073fe4305b7bf776cea77ac5641614209[m
+Merge: 58bcddd 146869c
+Author: Anthony <93312637+Anthony26100@users.noreply.github.com>
+Date:   Mon May 30 14:39:51 2022 +0200
+
+    Merge pull request #11 from Anthony26100/conflit
+    
+    Merge pull request #9 from Anthony26100/antho
+
+[33mcommit 58bcddd49163ff48950979ae1bc1d362d732957c[m
+Merge: 73f7987 50d8817
+Author: Anthony <93312637+Anthony26100@users.noreply.github.com>
+Date:   Mon May 30 14:26:54 2022 +0200
+
+    Merge pull request #10 from Anthony26100/antho
+    
+    Antho
+
+[33mcommit 146869ce04530da94ad7ed755159bf24dee3f4c0[m[33m ([m[1;31morigin/conflit[m[33m, [m[1;32mconflit[m[33m)[m
+Merge: 2812926 50d8817
+Author: Anthony <93312637+Anthony26100@users.noreply.github.com>
+Date:   Mon May 30 14:24:20 2022 +0200
+
+    Merge pull request #9 from Anthony26100/antho
+    
+    Merge antho to conflit
+
+[33mcommit 50d88172da4b883c318691e08505c191adeb19d8[m[33m ([m[1;31morigin/antho[m[33m, [m[1;32mantho[m[33m)[m
+Merge: 1495836 2812926
+Author: Anthony <93312637+Anthony26100@users.noreply.github.com>
+Date:   Mon May 30 14:24:09 2022 +0200
+
+    Merge branch 'conflit' into antho
+
+[33mcommit 73f79875a974a5e2c987f6c093077c07d55c76d7[m
+Merge: 2102291 1b58ded
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Mon May 30 14:21:28 2022 +0200
+
+    Merge branch 'mastercrashtest' of https://github.com/Anthony26100/ProjetITFS into mastercrashtest
+
+[33mcommit 2102291fecd63ecf8c77c37f80f443261efb41be[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Mon May 30 14:20:49 2022 +0200
+
+    Minor
+
+[33mcommit 1495836e13cf9cd4d3e9e368b7157da6432ef516[m
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Mon May 30 14:16:58 2022 +0200
+
+    Responsive mobile
+
+[33mcommit b1ba306dbcb15cb121cd77f708f857d4c87a9daf[m
+Merge: be96639 dc6f956
+Author: PetitCakeAuxOlives <morgan.rdr@gmail.com>
+Date:   Mon May 30 12:26:02 2022 +0200
+
+    merging
+
+[33mcommit 1b58dedfb6f582356ab4f9b6de6c01a845451050[m
+Merge: 3bc21c3 c54df6a
+Author: Anthony <93312637+Anthony26100@users.noreply.github.com>
+Date:   Mon May 30 10:11:43 2022 +0200
+
+    Merge pull request #7 from Anthony26100/Camoulax
+    
+    Camoulax
+
+[33mcommit 28129262268577af0732b17b9efe63bb69faaccb[m
+Merge: acb2282 c54df6a
+Author: Camille Bonin-Di sera <93312641+Boburuu@users.noreply.github.com>
+Date:   Mon May 30 10:10:42 2022 +0200
+
+    Merge pull request #8 from Anthony26100/Camoulax
+    
+    Camoulax
+
+[33mcommit c54df6aea0defd0fdc2c3e703b311c53a9d92798[m[33m ([m[1;31morigin/Camoulax[m[33m, [m[1;32mCamoulax[m[33m)[m
+Merge: dc6f956 acb2282
+Author: Camille Bonin-Di sera <93312641+Boburuu@users.noreply.github.com>
+Date:   Mon May 30 10:10:29 2022 +0200
+
+    Merge branch 'conflit' into Camoulax
+
+[33mcommit 50c154c893efea1eb639fea24a35081ecea96400[m
+Merge: e3e4c27 acb2282
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Mon May 30 08:59:10 2022 +0200
+
+    rectification conflit
+
+[33mcommit e3e4c27a9e6f792df37581a93376281496febb4a[m
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Fri May 13 15:49:26 2022 +0200
+
+    contenu rempli & position de l'image terminée
+
+[33mcommit 6d9df47af6542afca56082378653a794eb36ed9a[m
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Mon May 9 11:18:05 2022 +0200
+
+    avancement page formation
+
+[33mcommit be96639b47aeeeafd9a6f90539294900b53b0451[m
+Merge: 16fa4c9 6e74cba
+Author: PetitCakeAuxOlives <morgan.rdr@gmail.com>
+Date:   Fri May 6 16:00:48 2022 +0200
+
+    r
+
+[33mcommit acb22829a41afa8fbfe7e03ece3164a46bd1c828[m[33m ([m[1;32manto[m[33m)[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Fri May 6 15:56:43 2022 +0200
+
+    Test Branch
+
+[33mcommit dc6f9567a67a9e070d5102eeb93c1ead1e4f413e[m
+Author: Boburuu <camille.disera.30@gmail.com>
+Date:   Fri May 6 15:52:33 2022 +0200
+
+    heard bon
+
+[33mcommit 3bc21c350606670150ef52d5063df0fb16cfe8b0[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Fri May 6 15:15:16 2022 +0200
+
+    Resolution Conflit
+
+[33mcommit 7c5ad2e8cfb7f12d45ff159e2d6bebca2893c659[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Fri May 6 15:06:18 2022 +0200
+
+    Minor Modification
+
+[33mcommit d579a75cae2cd93abdb4a090646b5a1a75f277c9[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Fri May 6 13:53:46 2022 +0200
+
+    Résolution Conflit
+
+[33mcommit 16fa4c97193c2c93859c98bc53ac9b89ca793546[m
+Merge: da30199 647fea0
+Author: PetitCakeAuxOlives <morgan.rdr@gmail.com>
+Date:   Fri May 6 12:32:53 2022 +0200
+
+    a
+
+[33mcommit b0a2aab459dca5e437542ebcb74580633ffb6d17[m
+Merge: 7c2b6c8 e617214
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Fri May 6 12:19:29 2022 +0200
+
+    Merge branch 'mastercrashtest' of https://github.com/Anthony26100/ProjetITFS into mastercrashtest
+
+[33mcommit 6e74cbacb2537c0b25bfe30e70017095d54010eb[m
+Author: Boburuu <camille.disera.30@gmail.com>
+Date:   Fri May 6 12:19:00 2022 +0200
+
+    envoie
+
+[33mcommit 7c2b6c80a49d4b58251ad083a81a8222b60866be[m
+Merge: 4d5ab3b 647fea0
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Fri May 6 12:18:51 2022 +0200
+
+    Merge branch 'master' of https://github.com/Anthony26100/ProjetITFS into mastercrashtest
+
+[33mcommit 4d5ab3b29de70a20326afc4539c34214e9ccf712[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Fri May 6 12:18:19 2022 +0200
+
+    Modified Arborescence
+
+[33mcommit da3019931ec671f613140f7b072f914587c79dc2[m
+Author: PetitCakeAuxOlives <morgan.rdr@gmail.com>
+Date:   Fri May 6 11:46:47 2022 +0200
+
+    Modification sur la page Home et création du dossier animation/slideUp
+
+[33mcommit a45ae1e0e8b84e2dbce36effda348b698b7ce693[m
+Merge: cf27f5a 35356e8
+Author: nicecustodio <eunicemendes713@hotmail.com>
+Date:   Fri May 6 11:08:42 2022 +0200
+
+    resolution conflit
+
+[33mcommit e6172142321256fc7488e3712a828077f3c76bb4[m
+Merge: 35356e8 d6dd9dc
+Author: StefBK <93312638+StefBK@users.noreply.github.com>
+Date:   Fri May 6 11:00:54 2022 +0200
+
+    Merge pull request #6 from Anthony26100/legalmentions
+    
+    Legalmentions
+
+[33mcommit d6dd9dcbf30f3e39839b6753fbfb684e80541980[m[33m ([m[1;31morigin/legalmentions[m[33m)[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Fri May 6 10:57:49 2022 +0200
+
+    Resolution Conflit
+
+[33mcommit fe97fbe846ecdd24250a0eb0da3c8a7acf4a457d[m
+Merge: 8ca20e5 35356e8
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Fri May 6 10:55:05 2022 +0200
+
+    Resolution Conflit
+
+[33mcommit 8ca20e59f744302a6e28183f1e5c9a8ed13815d9[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Fri May 6 10:28:22 2022 +0200
+
+    Modification Border Radius
+
+[33mcommit 78f4a7aadb9715b169e4217a0d6ad2c7335342eb[m
+Author: Boburuu <camille.disera.30@gmail.com>
+Date:   Fri May 6 10:11:56 2022 +0200
+
+    Maj Header ok
+
+[33mcommit 35356e8b3f72814c0071fce46bb928aabb480482[m
+Author: Boburuu <camille.disera.30@gmail.com>
+Date:   Fri May 6 10:00:29 2022 +0200
+
+    Maj Header ok
+
+[33mcommit d5621c36a1c9157c995206f1cfe1b4531896f342[m
+Merge: 767bb4f 27c122e
+Author: Boburuu <camille.disera.30@gmail.com>
+Date:   Fri May 6 09:59:26 2022 +0200
+
+    maj header
+
+[33mcommit 767bb4f6a252686d5e886a9662cf84e07ce1aaa7[m
+Author: Boburuu <camille.disera.30@gmail.com>
+Date:   Fri May 6 09:55:39 2022 +0200
+
+    maj header
+
+[33mcommit 27c122ea06dfd2e1f6ec49204e4aed0c5c96d186[m
+Merge: ecfe782 ebf99fe
+Author: Camille Bonin-Di sera <93312641+Boburuu@users.noreply.github.com>
+Date:   Fri May 6 09:50:59 2022 +0200
+
+    Merge pull request #5 from Anthony26100/Camoulax
+    
+    Camoulax
+
+[33mcommit ebf99fe04f3af2f96c18cde07dd5a865620c9695[m
+Merge: 69e5f4a ecfe782
+Author: Camille Bonin-Di sera <93312641+Boburuu@users.noreply.github.com>
+Date:   Fri May 6 09:50:33 2022 +0200
+
+    Merge branch 'mastercrashtest' into Camoulax
+
+[33mcommit 69e5f4ac117d00bc659cfd6d613c514ff98c7957[m
+Author: Boburuu <camille.disera.30@gmail.com>
+Date:   Fri May 6 09:27:05 2022 +0200
+
+    test encore
+    
+    reer
+
+[33mcommit 7b5bbd781064a8fdf2569b233ef73070af2e6b8b[m
+Merge: 5ef505c 9197737
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Fri May 6 02:43:14 2022 +0200
+
+    conflit reglé de branche header
+
+[33mcommit 5ef505c23a3ed4950c324f232665d90b3f573c8e[m
+Merge: 03c01af 997cc5d
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Fri May 6 02:39:02 2022 +0200
+
+    Merge branch 'revert-4-Camoulax' of https://github.com/Anthony26100/ProjetITFS into antho
+
+[33mcommit 03c01af61cdb9a0ae7ac62dce55e0bcf917c61c4[m
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Fri May 6 02:36:14 2022 +0200
+
+    structure page foramtion
+
+[33mcommit 740e9c06e07ab5147fedcae6a006c5f2b1525865[m
+Merge: 212e786 ecfe782
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Fri May 6 02:25:03 2022 +0200
+
+    Merge branch 'mastercrashtest' of https://github.com/Anthony26100/ProjetITFS into antho
+
+[33mcommit 212e7862b5a37972c03513e055d56391c39b3831[m
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Fri May 6 02:22:33 2022 +0200
+
+    background image formation
+
+[33mcommit 919773717f2db859d07d844e363ed789fb2702d3[m
+Merge: 061f70d 647fea0
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Tue May 3 13:17:34 2022 +0200
+
+    Résolution Conflits Header & Footer
+
+[33mcommit e45bc0ea7279636e89208ffa567ad4ffe0d6611b[m
+Author: Boburuu <camille.disera.30@gmail.com>
+Date:   Tue May 3 13:14:28 2022 +0200
+
+    header+footer
+    
+    03-05-2022
+
+[33mcommit ecfe782b1a191879bda62f6e16d08aaaf9901944[m
+Merge: 87398c9 061f70d
+Author: Anthony <93312637+Anthony26100@users.noreply.github.com>
+Date:   Tue May 3 11:11:17 2022 +0200
+
+    Merge pull request #3 from Anthony26100/legalmentions
+    
+    Legalmentions
+
+[33mcommit 997cc5d674fa25d45ee24aa2475e215f678e955c[m[33m ([m[1;31morigin/revert-4-Camoulax[m[33m)[m
+Author: Camille Bonin-Di sera <93312641+Boburuu@users.noreply.github.com>
+Date:   Tue May 3 11:08:22 2022 +0200
+
+    Revert "avancé header"
+
+[33mcommit 647fea0b3c1d6c2b09993dd387ffb6dffae8078d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 8d1e5de 5191bbd
+Author: Camille Bonin-Di sera <93312641+Boburuu@users.noreply.github.com>
+Date:   Tue May 3 11:08:06 2022 +0200
+
+    Merge pull request #4 from Anthony26100/Camoulax
+    
+    avancé header
+
+[33mcommit 061f70d5b6f41aaa5549129e787b59d4df8ad38e[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Tue May 3 00:50:04 2022 +0200
+
+    Modification Charte Graphique + Carte Visite + Entête + BG
+
+[33mcommit 5191bbd5451e17d0dfc22a37e9242688686ca30c[m
+Author: Boburuu <camille.disera.30@gmail.com>
+Date:   Fri Apr 29 13:44:55 2022 +0200
+
+    avancé hea
+    
+    der
+
+[33mcommit d5634a7a63a41508ea6bb70b96d8d9a324b65d78[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Fri Apr 29 00:07:30 2022 +0200
+
+    Legal Mentions
+
+[33mcommit cf27f5aa75a7e20efcca9493e9e2e61d867812f9[m
+Author: nicecustodio <eunicemendes713@hotmail.com>
+Date:   Thu Apr 28 22:33:59 2022 +0200
+
+    page audits incomplete
+
+[33mcommit 7b104c059e8acf4951585fd4f9fcd9cc845b3b38[m
+Author: nicecustodio <eunicemendes713@hotmail.com>
+Date:   Thu Apr 28 22:09:53 2022 +0200
+
+    arborescence vfinal
+
+[33mcommit 81246dc1ecf29f3f9d12383d56489760a908cae0[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Thu Apr 28 20:58:37 2022 +0200
+
+    Charte Graphique + Carte Visite + Entête + QRCODE + Mentions Légales
+
+[33mcommit 65688f98c19c6abaf9bdd43815ed05e59a348d16[m
+Merge: f6fbe8f 87398c9
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Thu Apr 28 11:01:22 2022 +0200
+
+    Resolution Conflit Lien Mentions Légales Footer
+
+[33mcommit 538ab01856508fa871114ed9025670270a902c9c[m
+Merge: ce3aed4 4c41529
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Thu Apr 28 09:16:10 2022 +0200
+
+    Merge branch 'page404' of https://github.com/Anthony26100/ProjetITFS into mastercrashtest
+
+[33mcommit f6fbe8f3962a635221f778f44d2f42bd47ff99a9[m
+Author: Stef BK <stefsbk@gmail.com>
+Date:   Thu Apr 28 09:12:48 2022 +0200
+
+    Legal Mentions
+
+[33mcommit 87398c902cafedc5cade747a6153ae56c718cb43[m
+Merge: ce3aed4 4c41529
+Author: StefBK <93312638+StefBK@users.noreply.github.com>
+Date:   Thu Apr 28 09:10:25 2022 +0200
+
+    Merge pull request #2 from Anthony26100/page404
+    
+    Page404
+
+[33mcommit ce3aed45f2bdb9adc4c72bfea94e2eb930d8246d[m
+Author: Anthony <anthony.bellier@laposte.net>
+Date:   Thu Apr 28 09:07:51 2022 +0200
+
+    branche test avant de mettre sur master
