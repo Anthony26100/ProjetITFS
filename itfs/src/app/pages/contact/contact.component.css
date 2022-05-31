@@ -54,10 +54,11 @@ button:hover{
 }
 
 h1{
-    color: white;
+    color: #FFC400;
     text-align: center;
     margin-top: 5vh;
     margin-bottom: 4vh;
-    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-family: Mistral, 'Segoe UI', Tahoma, sans-serif;
+    font-size: 4rem;
 }
 
