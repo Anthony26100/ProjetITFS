@@ -1,3 +1,7 @@
+h1{
+    padding-top: 4%;
+}
+
 h1, h2{
     font-family: Mistral, Roboto, 'Segoe UI', Tahoma, sans-serif;
     font-size: 5rem;
