@@ -1,31 +1,64 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../../../assets/images/fond/contact/forms/bk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   height: 100vh;
+   width: 100vw;
+}
+
+section{
+    margin: auto;
+    height: 82vh;
+    padding-top: 17vh;
+}
+
 .bordure{
-    margin-left: 12vw;
-    margin-right: 12vw;
-    margin-top: 16vh;
-    margin-bottom: 7vh;
+    margin: auto;
     border: solid 2px #FFC400;
     border-radius: 2%;
     display: flex;
+    height: 58vh;
+    width: 48vw;
+   padding: 10px;
+    padding-top: 1vh;
 }
 
 
 .forms{
-    margin-left: 6vw;
-    margin-right: 6vw;
-    margin-top: 10vh;
-    margin-bottom: 11vh;
+    color: #fac102;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    font-family: Mistral ;
     
 }
 
 
-body{
-    background-image: url();
-
-    background-repeat: no-repeat;
-    background-size: cover;
+.btn{
+    display: flex;
+    justify-content: flex-end;
+    margin: 9px;
 }
 
 button{
-    flex-direction: row;
-    
+    background-color: #fcb602;;
+    border: solid 1px #FFC400;
 }
+
+button:hover{
+    background-color: #ff8800;
+    border: solid 1px #ff8800;
+}
+
+h1{
+    color: #FFC400;
+    text-align: center;
+    margin-top: 5vh;
+    margin-bottom: 4vh;
+    font-family: Mistral, 'Segoe UI', Tahoma, sans-serif;
+    font-size: 4rem;
+}
+

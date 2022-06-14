@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    margin-top: -2px;
+    margin-bottom: -1px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+
+h1,p{
+    font-family: Mistral, Roboto, 'Segoe UI', Tahoma, sans-serif;
+}
+
+h1{
+    padding-top: 20vh;
+}
+
+p{
+    padding: 10vh ;
+}
+
+
+
+div:first-of-type{
+    background-image: url(../../../assets/images/fond/Accueil/fond.png);
+}
+
+div:nth-of-type(2){
+    height: 95vh;
+}
+
+h1.orange{
+    color: #FFC400;
+    font-size: 4rem;
+}
+
+p.orange{
+    color: #FFC400;
+    opacity: 0.91;
+    font-size: 2rem;
+}
+
